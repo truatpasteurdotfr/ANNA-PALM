@@ -1,8 +1,8 @@
 Pillow
 numpy
-scipy==1.0.0
+scipy
 matplotlib
 scikit-image
-tensorflow==1.12.0	# CPU Version of TensorFlow.
+tensorflow	# CPU Version of TensorFlow.
 imreg_dft
 pytest
